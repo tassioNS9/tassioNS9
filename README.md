@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1>👋 &nbsp;Olá sou Tassio Neves, Um Engenheiro Full Stack apaixonado!!</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/byfeliperocha"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-My%20YT%20Channel-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+<a href="mailto:felipemotarocha@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-<!--
-**tassioNS9/tassioNS9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
+Sou um engenheiro de software com foco em desenvolvimento full stack, apaixonado por construir soluções escaláveis, modernas e bem arquitetadas.
 
-Here are some ideas to get you started:
+Me apaixonei por programação durante a pandemia onde pude me dedicar com mais facilidade aos estudos, com isso pude me destacar na faculdade abrindo para minha uma oportunidade como bolsista em um projeto onde pude aprimorar ainda mais meus conhecimentos além de ajudar meus colegas durante o projeto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Percebi que podia personalizar qualquer coisa apenas escrevendo código.
+
+<h2> 📚 &nbsp;O que você encontrará aqui?</h2>
+
+Este GitHub é mais do que apenas um repositório de código — é um reflexo da minha jornada, experiências e compromisso com o desenvolvimento de software limpo e com propósito. Seja você um recrutador, um colega desenvolvedor ou alguém aprendendo a programar, aqui você encontrará:
+
+- Projetos reais usados
+- Arquitetura Limpa e princípios SOLID em ação
+- Experimentos, estudos técnicos e melhores práticas do mundo real
+
+Se você quiser se conectar, colaborar ou tiver alguma dúvida, fique à vontade para <a href="mailto:tassions@hotmail.com">clique aqui e me envie um email</a> — ou entrar em contato pelo <a href="https://www.linkedin.com/in/tassio-neves-santos-51aa59180/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
+
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+
+<h3>⚙️ &nbsp;Back-end & databases:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
