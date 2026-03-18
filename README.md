@@ -10,7 +10,7 @@ Sou um engenheiro de software com foco em desenvolvimento full stack, apaixonado
 
 Me apaixonei por programação durante a pandemia onde pude me dedicar com mais facilidade aos estudos, com isso pude me destacar na faculdade abrindo para minha uma oportunidade como bolsista em um projeto onde pude aprimorar ainda mais meus conhecimentos além de ajudar meus colegas durante o projeto.
 
-Percebi que podia personalizar qualquer coisa apenas escrevendo código.
+Percebi que podia personalizar qualquer coisa apenas escrevendo código, atualmente trabalho no SENAI CIMATEC em Salvador-BA com desenvolvimento de softwares.
 
 <h2> 📚 &nbsp;O que você encontrará aqui?</h2>
 
